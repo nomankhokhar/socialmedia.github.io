@@ -1,5 +1,7 @@
+## https://nomankhokhar.github.io/socialmedia.github.io/
+
 ![Project Screenshot](./img/Social-Media-Responsive.png)
-![Project Screenshot](./img/Setting.png.png)
+![Project Screenshot](./img/Setting.png)
 
 # Social Media Application that Build with HTML/CSS and JavaScript 
 
